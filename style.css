@@ -1,0 +1,58 @@
+th, td{
+    border: solid;
+    background-color: rgba ( 96 , 96 , 96 ,0 .6);
+    color: #eee;
+
+}
+body{background-image: url(bg.jpg);
+background-repeat: no-repeat;
+height: 100%;
+background-size: cover;}
+
+#studentsForm{
+    color: #eee;
+
+    background-color: rgba ( 96 , 96 , 96 ,0 .6);;
+}
+
+#studentsTable{
+    margin: auto;
+    margin-left: 675px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#footerPage{
+    text-align: center;
+    margin-top: 285px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{text-align: center;
+    font-family: 'Roboto', sans-serif;}
+
+#studentsForm{
+    font-family: 'Roboto', sans-serif;
+}
+
+#submit{
+    font-family: 'Roboto', sans-serif;
+    width: 140px;
+    margin-top: 20px;
+}
+
+#header{    display: inline-flex;
+    margin-left: 641px;
+    text-align: center;}
+
+    #list{margin-left: 400px;
+        font-family: 'Roboto', sans-serif;
+        color: #eee;
+        
+
+}
+ .a{display: inline-block;
+        margin: 20px;}
+
+
+        .anchor{font-family: 'Roboto', sans-serif;
+            color: #eee;}
